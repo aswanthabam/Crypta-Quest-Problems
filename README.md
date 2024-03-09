@@ -2,6 +2,8 @@
 
 This repository contains the problems for the Crypta Quest Decryption competition held at KBMGCT. The competition is a challenging event in which participants will decrypt a ciphertext step by step. Ultimately, participants will unveil a message upon successfully completing the decryption process.
 
+> Check out the competition at : [vijnana.web.app/cq](https://vijnana.web.app/cq)
+
 > below is the description about each folder or file in this repo.
 
 | File/ Folder | Description |
